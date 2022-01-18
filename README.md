@@ -1,2 +1,2 @@
 # Easy-Videos
-This plugin is used to fetch youtube video and import into post
+Fetch youtube videos and import them into post
