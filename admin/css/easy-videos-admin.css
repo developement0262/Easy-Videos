@@ -1,0 +1,45 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+table.ev_video_sample_table {
+  border-collapse: collapse;
+  width: 100%;
+}
+table.ev_video_sample_table td,
+table.ev_video_sample_table th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+table.ev_video_sample_table tr:nth-child(even) {
+  background-color: #dddddd;
+}
+td.ev_action_td a {
+    margin-right: 20px;
+    background: #2271b1;
+    color: #fff;
+    padding: 10px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.ev_pagination {
+    text-align: center;
+    margin-top: 30px;
+}
+.ev_pagination button {
+    margin-left: 20px !important;
+}
+.ev_import_all {
+  margin: 20px 0 !important;
+}
+img#ev_loader_all {
+  width: 35px;
+  margin-top: 18px;
+  margin-left: 15px;
+}
+img#ev_loader {
+  width: 30px;
+  vertical-align: middle;
+}
